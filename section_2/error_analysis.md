@@ -10,7 +10,7 @@ columns = predicted labels.  The cells most likely to be non-zero (off-diagonal)
 | **Simple**        | ✓      | ↑        | –       | –               | ↑          |
 | **Compound**      | ↑      | ✓        | –       | ↑               | –          |
 | **Complex**       | –      | –        | ✓       | ↑               | ↑          |
-| **Compound-Complex** | –  | ↑        | ↑       | ✓               | –          |
+| **Compound-Complex** | –   | ↑         | ↑      | ✓               | –          |
 | **Incomplete**    | ↑      | –        | ↑       | –               | ✓          |
 
 `✓` = correct diagonal, `↑` = common confusion direction, `–` = rare.

@@ -1,7 +1,3 @@
-"""Section 1 — Handwriting OCR Pipeline · Streamlit Dashboard
-Black & Shocking-Pink theme · Tasks 1.1 / 1.2 / 1.3
-"""
-
 from __future__ import annotations
 
 import json
@@ -9,8 +5,6 @@ import os
 import sys
 from pathlib import Path
 
-# torchvision must be fully initialized before EasyOCR imports it.
-# Importing it here loads torchvision._C which registers torchvision::nms.
 try:
     import torchvision          # noqa: F401
 except ImportError:

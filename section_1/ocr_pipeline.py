@@ -14,7 +14,6 @@ OCR_ENGINES = {
     "trocr":   "TrOCR ★    — handwriting specialist, ~400 MB one-time download",
 }
 
-# HuggingFace model IDs used by each engine (None = no HF download)
 _ENGINE_HF_MODEL = {
     "easyocr": None,
     "trocr":   "microsoft/trocr-base-handwritten",
