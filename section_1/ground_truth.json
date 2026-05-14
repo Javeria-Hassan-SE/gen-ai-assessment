@@ -1,0 +1,36 @@
+[
+  {
+    "sample_id": "page1_tadeo_the_light",
+    "page": 1,
+    "metadata": {
+      "school": "PS 179",
+      "class": "class 5-512",
+      "student": "Tadeo",
+      "date": "Deceber 15 202x",
+      "title": "The light"
+    },
+    "ground_truth": "At 7:00am Tadeo woke up then he went to make coffee then Tadeo saw a shadow he got scord he scrxmd AAA A! then it was his sister his sister siad,\"why are you drinking coffee it to early Tadeo siad well I wokeup early and not you siad Tadeo 13 hours later it was 8:00 the his family wents to sleep but Tadeo got scord he got his iPad and was watching youtube the out of the window bright ligt then baam the house brok he then his family wokeup they hid there self in the bed then Tadc went outside it was a ship it s had 30sec of a bomp Tadeo ran told his family they got out on time the end.",
+    "predicted": ""
+  },
+  {
+    "sample_id": "page2_bus_driver",
+    "page": 2,
+    "metadata": {},
+    "ground_truth": "In the future I wants to becom a bus drive because I want to be rich. To learn how to drive you have to take a text to drive I going to buy a computer and a game. Then I go Home to hav to drive. I going to be 35 bus and I going to be a kind bus drive.",
+    "predicted": ""
+  },
+  {
+    "sample_id": "page3_tadeo_duplicate",
+    "page": 3,
+    "note": "Duplicate of page 1 — different camera angle, same content. Expect worse OCR scores due to wider shot, background, perspective.",
+    "metadata": {
+      "school": "PS 179",
+      "class": "class 5-512",
+      "student": "Tadeo",
+      "date": "Deceber 15 2023",
+      "title": "The light"
+    },
+    "ground_truth": "At 7:00am Tadeo woke up then he went to make coffee then Tadeo saw a shadow he got scord he scrxmd AAA A! then it was his sister his sister siad,\"why are you drinking coffee it to early Tadeo siad well I wokeup early and not you siad Tadeo 13 hours later it was 8:00 the his family wents to sleep but Tadeo got scord he got his iPad and was watching youtube the out of the window bright ligt then baam the house brok he then his family wokeup they hid there self in the bed then Tadc went outside it was a ship it s had 30sec of a bomp Tadeo ran told his family they got out on time the end.",
+    "predicted": ""
+  }
+]

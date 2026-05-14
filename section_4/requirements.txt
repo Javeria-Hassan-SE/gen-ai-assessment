@@ -1,0 +1,5 @@
+editdistance
+pyenchant   # optional — requires the enchant C library; falls back gracefully if not installed
+            # macOS:   brew install enchant
+            # Ubuntu:  sudo apt-get install libenchant-2-dev
+            # Windows: https://pyenchant.github.io/pyenchant/install.html
